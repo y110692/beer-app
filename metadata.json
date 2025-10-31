@@ -1,0 +1,5 @@
+{
+  "name": "Beer Add-on",
+  "description": "An application that accepts a photograph of a person and uses AI to realistically add a beer into their hand.",
+  "requestFramePermissions": []
+}
